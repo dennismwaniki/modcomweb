@@ -1,0 +1,99 @@
+/*Style the <div>s*/
+#top{ 
+
+	background-color:#000000;
+
+
+ }
+
+
+ #left{
+ 	background-color: green;
+ 	width: 50%;
+ 	float: left;
+ 	height: 250px;
+ 
+
+ }
+
+ #right{
+background-color: black;
+ 	width: 30%;
+ 	float: left;
+ 	height: 250px;
+ 
+}
+ 
+
+ nav ul {
+   margin:0;
+ 	display: inline;
+
+ 	padding: 0 0 0 15px;
+
+ }
+
+ nav ul li{
+ margin:0;
+ 	display: inline-block;
+    list-style-type: none;
+ 	padding: 5px 15px;
+ 	color:green;
+ }
+
+ nav ul li a{
+ 	color: white;
+ 	text-decoration: none;
+ 	background-color: red;
+
+
+ }
+
+ .left{
+
+ 	float: left;
+ 	width: 70%;
+ 	color: green;
+ 	background-color:grey;
+ 	di
+
+ }
+
+ .right{
+ 	float:left;
+ 	width:30%;
+ 	color: orange;
+ 	background-color: silver;
+
+ }
+ .eric{
+ 	background-color: violet;
+ 	border-spacing: 5%;
+ }
+
+ .left{
+ 	background-color: orange;
+ }
+
+ h2{background-color: black;
+ 	color:white;
+
+ }
+
+
+  h4{background-color: black;
+ 	color:white;
+
+ }
+
+.left a{
+	background-color: black;
+	color: white;
+}
+
+#x{color: white;
+}
+
+#y{
+	color: yellow;
+}

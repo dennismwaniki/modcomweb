@@ -1,0 +1,82 @@
+/*Style the divs*/
+
+#top{
+	background-image: linear-gradient(to bottom right,grey, yellow); height:150px;
+	margin-bottom: 3%;
+
+
+}
+
+#left{
+	width: 28%;
+	height: 400px;
+	background-color: #424242;
+	float: left;
+	margin-right: 2%;
+}
+
+#right{
+	width: 68%;
+	height: 400px;
+	background-color: #424242;
+	float: left;
+	
+}
+#p1{
+	color:#FFFFFF;
+	
+	font-size: 20px;
+	font-style: bold;
+	font-weight:bold;
+	padding-left: 4%;
+	padding-top: 3%
+
+}
+
+#p2{
+
+	color:#000000;
+
+	font-size: 15px;
+	font-style: bold;
+	padding-left: 4%;
+    font-weight: bold;
+}
+.grad{
+
+	background-color:yellow;
+
+
+}
+a{
+
+	color: red;
+	text-decoration:none;
+	margin-left: 1%;
+}
+h3{
+
+	margin-left: 2%;
+	color: green;
+}
+
+h1{
+	color: orange;
+}
+
+h4{
+
+	margin-left: 2%;
+
+}
+
+p{
+	margin-left: 3%;
+	color:#FFFFFF;
+}
+
+#div1{
+
+	border-radius: round;
+	color: green;
+}
